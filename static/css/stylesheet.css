@@ -1,0 +1,37 @@
+/*
+
+Josiah Argo 9/6/2019
+teehee
+
+*/
+
+/*Elements*/
+body {background-color: turquoise; }
+h1 {
+	font-size: 24pt;
+	text-align:center;
+}
+h2 {
+	font-size: 18pt;
+	text-align:center;
+	
+}
+h3{
+	font-size: 15pt;
+}
+h4 {
+	font-size: 20pt;
+	text-align:center;
+}
+
+.lists{  background-color:lightgray;  
+width:30%;   
+margin: -40 px;  
+text-align:left;   
+padding:20px;}
+/* Resume */
+.resume{  background-color:lightgray;  
+width:70%;   
+margin: 0 auto;  
+text-align:left;   
+padding:20px;}
