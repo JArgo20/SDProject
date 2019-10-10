@@ -8,10 +8,20 @@
     </head>  
 	
 		<body>    
-		
-            {% block body %}
+            <h1> Loan Calculator </h1>
+        <hr>
 
-            {% endblock %}
+        <div class="wrapper">
+
+            <div class="data">
+                {% block body %}
+
+                {% endblock %}
+            </div> <!-- close the data div -->
+        <div style="clear:both;"></div> <!-- clear styling -->
+        
+        </div> <!-- clears wrapper div -->
+            
 		
 		</body>
 </html>
